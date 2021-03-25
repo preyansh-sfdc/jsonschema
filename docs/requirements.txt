@@ -16,7 +16,7 @@ lxml==4.6.2               # via -r requirements.in
 markupsafe==1.1.1         # via jinja2
 packaging==20.4           # via sphinx
 pyenchant==3.1.1          # via sphinxcontrib-spelling
-pygments==2.7.2           # via sphinx
+pygments==2.7.4           # via sphinx
 pyparsing==2.4.7          # via packaging
 pytz==2020.4              # via babel
 requests==2.25.0          # via sphinx
